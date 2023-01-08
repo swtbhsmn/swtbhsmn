@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Swetabh Suman</h1>
+<h1 style="text-align:center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Swetabh Suman</h1>
 
 ## 🛠️ Tools and Technologies I have used to build applications:
 <p>
